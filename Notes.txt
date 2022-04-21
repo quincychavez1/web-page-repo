@@ -6,3 +6,10 @@ git version
 
 -Initiate pull request for GitHub
 git push origin master
+
+=======================================================================================
+
+-Place edited\modified file in working dir and places modified version in staging area
+
+-Takes everything from staging area and make a permanent snapshot of current state of the repository. 
+git commit -m "<message>"

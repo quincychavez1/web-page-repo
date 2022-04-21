@@ -1,1 +1,8 @@
+-Home directory
 C:/Users/quinc/company_web
+
+-Get Version
+git version
+
+-Initiate pull request for GitHub
+git push origin master
